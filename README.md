@@ -64,27 +64,6 @@ python apply_patch.py --game "C:\Pfad\zum\InfiniteFusion"
 Optionen:
 - `--dry-run`  –  Nur anzeigen was gemacht würde, ohne Dateien zu ändern
 
-## Übersetzung selbst erstellen / aktualisieren
-
-Die Übersetzung wird mit dem Script `Translation/starte_uebersetzung.bat` erstellt.
-
-**Benötigt zusätzlich:**
-- `Translation/messange.dat` (aus dem Spielordner kopieren)
-- Einen DeepL-Account (kostenlos, 500.000 Zeichen/Monat) oder Nutzung ohne Key
-
-**Hinweis zur Übersetzungsqualität:**
-Die Übersetzung wird automatisch per KI (DeepL) erstellt und anschließend mit
-offiziellen Pokémon-Begriffen von PokéAPI korrigiert. Trotzdem können Fehler
-auftreten, z.B.:
-
-- Falsche Grammatik oder unnatürliche Formulierungen
-- Spielspezifische Begriffe die falsch oder gar nicht übersetzt wurden
-- Eigennamen von Charakteren oder Orten die nicht erkannt wurden
-- Kontext-Fehler bei mehrdeutigen Sätzen
-
-Die `translations.csv` kann in Excel geöffnet und manuell nachbearbeitet werden.
-Danach mit Option **[4] german.dat aus CSV bauen** die Datei aktualisieren.
-
 ## Mithilfe bei der Übersetzung
 
 Du möchtest bei der Übersetzung helfen? Melde dich gerne auf **Discord** unter **shirokazetv**!
