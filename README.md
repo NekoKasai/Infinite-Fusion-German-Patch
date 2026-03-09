@@ -85,6 +85,10 @@ auftreten, z.B.:
 Die `translations.csv` kann in Excel geöffnet und manuell nachbearbeitet werden.
 Danach mit Option **[4] german.dat aus CSV bauen** die Datei aktualisieren.
 
+## Mithilfe bei der Übersetzung
+
+Du möchtest bei der Übersetzung helfen? Melde dich gerne auf **Discord** unter **shirokazetv**!
+
 ## Probleme?
 
 - **"Python ist nicht installiert"**: Python 3.10+ von https://www.python.org/downloads/ herunterladen, bei Installation "Add Python to PATH" aktivieren.
